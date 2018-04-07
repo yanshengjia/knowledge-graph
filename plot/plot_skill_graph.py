@@ -23,7 +23,7 @@ class PlotSkillGraph:
         self.edge_counter = 0
 
     def cluster(self):
-        print
+        print()
 
     def build_skill_graph(self):
         with open(self.skill_rel_path, mode='r', encoding='UTF8') as skill_file:
