@@ -1,3 +1,3 @@
 # Knowledge Graph
 
-Build some knowledge graphs based on 17zy knowledge data.
+Build some knowledge graphs based on 17Tech knowledge data.
